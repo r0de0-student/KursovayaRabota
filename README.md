@@ -1,11 +1,9 @@
-<div>
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![Flexbox](https://img.shields.io/badge/Flexbox-CSS3-E43071?style=for-the-badge&logo=css3&logoColor=white)
-  ![Font Awesome](https://img.shields.io/badge/Font_Awesome-528DD7?style=for-the-badge&logo=fontawesome&logoColor=white)
-  ![Google Fonts](https://img.shields.io/badge/Google_Fonts-4285F4?style=for-the-badge&logo=googlefonts&logoColor=white)
-</div>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Flexbox](https://img.shields.io/badge/Flexbox-CSS3-E43071?style=for-the-badge&logo=css3&logoColor=white)
+![Font Awesome](https://img.shields.io/badge/Font_Awesome-528DD7?style=for-the-badge&logo=fontawesome&logoColor=white)
+![Google Fonts](https://img.shields.io/badge/Google_Fonts-4285F4?style=for-the-badge&logo=googlefonts&logoColor=white)
 
 # Goodlyfe Gyms 
 
@@ -63,21 +61,10 @@
 ```
 
 ## ⚙️ Установка и запуск
-
 Проект не требует сборки или установки зависимостей.
-
 1) Скачай папку с проектом.
 2) Открой файл index.html в любом современном браузере (Chrome, Firefox, Edge, Яндекс.Браузер).
 3) Для работы всех функций (например, скачивания шрифтов или иконок) рекомендуется использовать локальный сервер, например, расширение Live Server в VS Code.
 
 
-
-## 💡 Пара советов
-
-1. **Картинки:** Убедись, что все картинки (`1.png`, `2.png`, `Hero Slider.png` и т.д.) лежат в той же папке, что и `index.html`. Если ты закинешь их в репозиторий, сайт будет работать корректно при клонировании.
-2. **GitHub Pages:** Ты можешь легко опубликовать этот сайт бесплатно! Зайди в настройки репозитория (Settings) -> Pages -> Build and deployment -> Source: Deploy from a branch -> Branch: main / root. Через пару минут появится ссылка на твой рабочий сайт, которую можно вставить в README вместо заглушки "Демо".
-3. **Скриншоты:** Добавь пару скриншотов в README (например, вид на ПК и вид на телефоне). Это сильно украсит репозиторий.
-
-
-"Проект создан в учебных целях"
-Надеюсь кому-нибудь это поможет в будущем, удачи с защитой курсовой!
+`Проект создан в учебных целях. Надеюсь, кому-нибудь это поможет в будущем, удачи с защитой курсовой!`
