@@ -1,10 +1,10 @@
 <div align="center">
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![Flexbox](https://img.shields.io/badge/Flexbox-CSS3-E43071?style=for-the-badge&logo=css3&logoColor=white)
-  ![Font Awesome](https://img.shields.io/badge/Font_Awesome-528DD7?style=for-the-badge&logo=fontawesome&logoColor=white)
-  ![Google Fonts](https://img.shields.io/badge/Google_Fonts-4285F4?style=for-the-badge&logo=googlefonts&logoColor=white)
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img alt="Flexbox" src="https://img.shields.io/badge/Flexbox-CSS3-E43071?style=for-the-badge&logo=css3&logoColor=white">
+  <img alt="Font Awesome" src="https://img.shields.io/badge/Font_Awesome-528DD7?style=for-the-badge&logo=fontawesome&logoColor=white">
+  <img alt="Google Fonts" src="https://img.shields.io/badge/Google_Fonts-4285F4?style=for-the-badge&logo=googlefonts&logoColor=white">
 </div>
 
 
@@ -63,11 +63,12 @@
 └── Отчет курсовой работы.docx     # Текстовый отчет по работе
 ```
 
-## ⚙️ Установка и запуск
+
+##⚙️ Установка и запуск
 Проект не требует сборки или установки зависимостей.
 1) Скачай папку с проектом.
 2) Открой файл index.html в любом современном браузере (Chrome, Firefox, Edge, Яндекс.Браузер).
 3) Для работы всех функций (например, скачивания шрифтов или иконок) рекомендуется использовать локальный сервер, например, расширение Live Server в VS Code.
 
 
-`Проект создан в учебных целях. Надеюсь, кому-нибудь это поможет в будущем, удачи с защитой курсовой!`
+"Проект создан в учебных целях. Надеюсь, кому-нибудь это поможет в будущем, удачи с защитой курсовой!"
